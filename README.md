@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sunny</h1>
-<h3 align="center">A </h3>
 
 - 🌱 I’m currently learning **React js**
 
